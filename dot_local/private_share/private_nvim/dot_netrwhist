@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework'
+let g:netrw_dirhist_2='/Users/kaigroteluschen/vc-code/nordlb'
+let g:netrw_dirhist_1='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules/az/storage-account'
+let g:netrw_dirhist_0='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules/az'
+let g:netrw_dirhist_9='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules'
+let g:netrw_dirhist_8='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework'
+let g:netrw_dirhist_7='/Users/kaigroteluschen/vc-code/nordlb'
+let g:netrw_dirhist_6='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules/framework/spoke'
+let g:netrw_dirhist_5='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules/az/keyvault'
+let g:netrw_dirhist_4='/Users/kaigroteluschen/vc-code/nordlb/terraform-framework/modules/az'

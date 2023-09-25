@@ -1,0 +1,16 @@
+[user]
+	email = kgr@ccbash.de
+	name = Kai Grotelüschen
+	signingkey = 3546AB993AFC90268B6958DB94826B95D08E0D6C
+[push]
+	autoSetupRemote = true
+[core]
+	editor = nvim
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[commit]
+	gpgsign = true
+[pull]
+	rebase = false
+[fetch]
+	prune = true

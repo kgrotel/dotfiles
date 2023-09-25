@@ -1,0 +1,4 @@
+3c2f99a49f425b961fae4ec3fc8a536c547fe4e0 refs/heads/drop_older_nvim_support
+84ffb80e452d95e2c46fa29a98ea11a240f7843e refs/heads/master
+e80465d721bdafcd234e890d1677ca4afb905144 refs/tags/compat-nvim-0.5
+e80465d721bdafcd234e890d1677ca4afb905144 refs/tags/compat-nvim-0.6
