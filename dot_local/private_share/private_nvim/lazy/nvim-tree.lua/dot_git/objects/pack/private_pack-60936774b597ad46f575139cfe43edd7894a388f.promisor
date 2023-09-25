@@ -1,6 +1,0 @@
-8d6b532e003d0e8a32b30352db72afac837f7ba2 refs/heads/1931-gitignored-no-git-status
-8afddcc6487dea940cc6624204af639a8afc753d refs/heads/1989-cut-paste-overwrite-open-buffer
-59c39cb272d28939f6e970ea06546c82b6f4adab refs/heads/2293-find-file-extraneous-git-status-calls
-3cc698b35b0a67792c61e1726830bb9ecfc4c9f4 refs/heads/master
-90d7b8edb1d715086b34572a0fb742faf23a271b refs/tags/compat-nvim-0.6
-949913f1860eb85024fa1967dbd89ac797777b0d refs/tags/compat-nvim-0.7
